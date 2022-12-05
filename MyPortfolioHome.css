@@ -114,6 +114,20 @@ h2{
     margin-top: 100px;
 }
 
+a.proj:link{
+    color:#e68cbe;
+    text-decoration: none;
+}
+
+a.proj:visited{
+    color:#ff5a5a;
+    text-decoration: none;
+}
+
+a.proj:hover{
+    color:lightpink;
+}
+
 a.foot:link{
     color: #E4E3D3;
     text-decoration: none;
